@@ -58,3 +58,5 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 ## Inline code
 
 This web site is using `markedjs/marked`.
+
+![](/static/img/2022-06-23_17_04_32_view_east_along_maryland_state_route_404_-ocean_highway-_just_east_of_maryland_state_route_480_-ridgely_road-_in_thomas_town-_caroline_county-_maryland.jpg)
